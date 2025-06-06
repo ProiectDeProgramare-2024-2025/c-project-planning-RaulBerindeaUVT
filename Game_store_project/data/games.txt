@@ -1,0 +1,19 @@
+6
+1
+Minecraft
+24.99 4.50 8
+2
+Fifa 23
+29.99 3.80 4
+3
+Grand Theft Auto V
+79.99 4.70 15
+4
+Terraria
+14.99 4.20 7
+5
+Cyberpunk 2077
+49.99 2.80 3
+6
+Elden Ring
+59.99 4.80 12
